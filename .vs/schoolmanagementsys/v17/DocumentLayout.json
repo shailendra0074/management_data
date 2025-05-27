@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E447BC9A-2A9C-4847-8466-995CDE3A62B3}|schoolmanagementsys\\schoolmanagementsys.csproj|c:\\users\\dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E447BC9A-2A9C-4847-8466-995CDE3A62B3}|schoolmanagementsys\\schoolmanagementsys.csproj|solutionrelative:schoolmanagementsys\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E447BC9A-2A9C-4847-8466-995CDE3A62B3}|schoolmanagementsys\\schoolmanagementsys.csproj|c:\\users\\dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E447BC9A-2A9C-4847-8466-995CDE3A62B3}|schoolmanagementsys\\schoolmanagementsys.csproj|solutionrelative:schoolmanagementsys\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E447BC9A-2A9C-4847-8466-995CDE3A62B3}|schoolmanagementsys\\schoolmanagementsys.csproj|c:\\users\\dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\pages\\testdb.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E447BC9A-2A9C-4847-8466-995CDE3A62B3}|schoolmanagementsys\\schoolmanagementsys.csproj|solutionrelative:schoolmanagementsys\\pages\\testdb.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E447BC9A-2A9C-4847-8466-995CDE3A62B3}|schoolmanagementsys\\schoolmanagementsys.csproj|c:\\users\\dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\pages\\testdb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E447BC9A-2A9C-4847-8466-995CDE3A62B3}|schoolmanagementsys\\schoolmanagementsys.csproj|solutionrelative:schoolmanagementsys\\pages\\testdb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E447BC9A-2A9C-4847-8466-995CDE3A62B3}|schoolmanagementsys\\schoolmanagementsys.csproj|c:\\users\\dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E447BC9A-2A9C-4847-8466-995CDE3A62B3}|schoolmanagementsys\\schoolmanagementsys.csproj|solutionrelative:schoolmanagementsys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E447BC9A-2A9C-4847-8466-995CDE3A62B3}|schoolmanagementsys\\schoolmanagementsys.csproj|c:\\users\\dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E447BC9A-2A9C-4847-8466-995CDE3A62B3}|schoolmanagementsys\\schoolmanagementsys.csproj|solutionrelative:schoolmanagementsys\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E447BC9A-2A9C-4847-8466-995CDE3A62B3}|schoolmanagementsys\\schoolmanagementsys.csproj|c:\\users\\dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\schoolmanagementsys.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E447BC9A-2A9C-4847-8466-995CDE3A62B3}|schoolmanagementsys\\schoolmanagementsys.csproj|solutionrelative:schoolmanagementsys\\schoolmanagementsys.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E447BC9A-2A9C-4847-8466-995CDE3A62B3}|schoolmanagementsys\\schoolmanagementsys.csproj|c:\\users\\dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E447BC9A-2A9C-4847-8466-995CDE3A62B3}|schoolmanagementsys\\schoolmanagementsys.csproj|solutionrelative:schoolmanagementsys\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E447BC9A-2A9C-4847-8466-995CDE3A62B3}|schoolmanagementsys\\schoolmanagementsys.csproj|c:\\users\\dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E447BC9A-2A9C-4847-8466-995CDE3A62B3}|schoolmanagementsys\\schoolmanagementsys.csproj|solutionrelative:schoolmanagementsys\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E447BC9A-2A9C-4847-8466-995CDE3A62B3}|schoolmanagementsys\\schoolmanagementsys.csproj|c:\\users\\dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E447BC9A-2A9C-4847-8466-995CDE3A62B3}|schoolmanagementsys\\schoolmanagementsys.csproj|solutionrelative:schoolmanagementsys\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\Program.cs",
+              "RelativeDocumentMoniker": "schoolmanagementsys\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\Program.cs",
+              "RelativeToolTip": "schoolmanagementsys\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:41:33.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\appsettings.json",
+              "RelativeDocumentMoniker": "schoolmanagementsys\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\appsettings.json",
+              "RelativeToolTip": "schoolmanagementsys\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T13:34:52.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestDb.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\Pages\\TestDb.cshtml.cs",
+              "RelativeDocumentMoniker": "schoolmanagementsys\\Pages\\TestDb.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\Pages\\TestDb.cshtml.cs",
+              "RelativeToolTip": "schoolmanagementsys\\Pages\\TestDb.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:48:33.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestDb.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\Pages\\TestDb.cshtml",
+              "RelativeDocumentMoniker": "schoolmanagementsys\\Pages\\TestDb.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\Pages\\TestDb.cshtml",
+              "RelativeToolTip": "schoolmanagementsys\\Pages\\TestDb.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T14:48:15.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "schoolmanagementsys\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\Models\\Student.cs",
+              "RelativeToolTip": "schoolmanagementsys\\Models\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:31:10.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\Data\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "schoolmanagementsys\\Data\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\Data\\SchoolDbContext.cs",
+              "RelativeToolTip": "schoolmanagementsys\\Data\\SchoolDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:54:05.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "schoolmanagementsys.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\schoolmanagementsys.csproj",
+              "RelativeDocumentMoniker": "schoolmanagementsys\\schoolmanagementsys.csproj",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\schoolmanagementsys.csproj",
+              "RelativeToolTip": "schoolmanagementsys\\schoolmanagementsys.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T13:52:15.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "schoolmanagementsys\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "schoolmanagementsys\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T03:08:35.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "schoolmanagementsys\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "schoolmanagementsys\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAAAAMBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-23T03:09:24.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "schoolmanagementsys\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\schoolmanagementsys\\schoolmanagementsys\\Pages\\Index.cshtml",
+              "RelativeToolTip": "schoolmanagementsys\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAUwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T03:04:33.237Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

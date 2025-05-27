@@ -1,0 +1,11 @@
+﻿@page
+@model schoolmanagementsys.Pages.TestDbModel
+@{
+}
+<h2>Students List</h2>
+<ul>
+    @foreach (var student in Model.Student)
+    {
+        <li>@student.Name (@student.RollNo)</li>
+    }
+</ul>
