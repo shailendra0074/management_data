@@ -1,0 +1,86 @@
+-- Create Class table
+CREATE TABLE Class (
+    ClassId INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+    ClassName VARCHAR(50) NULL
+);
+
+-- Create Subject table with foreign key reference to Class
+CREATE TABLE Subject (
+    SubjectId INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+    ClassId INT FOREIGN KEY REFERENCES Class(ClassId) NULL,
+    SubjectName VARCHAR(50) NULL
+);
+
+-- Create Student table
+CREATE TABLE Student (
+    StudentId INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+    Name VARCHAR(50) NULL,
+    DOB DATE NULL,
+    Gender VARCHAR(50) NULL,
+    Mobile BIGINT NULL,
+    RollNo VARCHAR(50) NULL,
+    Address VARCHAR(MAX) NULL,
+    ClassId INT FOREIGN KEY REFERENCES Class(ClassId) NULL
+);
+
+-- Create Teacher table
+CREATE TABLE Teacher (
+    TeacherId INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+    Name VARCHAR(50) NULL,
+    DOB DATE NULL,
+    Gender VARCHAR(50) NULL,
+    Mobile BIGINT NULL,
+    Email VARCHAR(50) NULL,
+    Address VARCHAR(MAX) NULL,
+    Password VARCHAR(20) NULL
+);
+
+-- Create TeacherSubject table
+CREATE TABLE TeacherSubject (
+    Id INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+    ClassId INT FOREIGN KEY REFERENCES Class(ClassId) NULL,
+    SubjectId INT FOREIGN KEY REFERENCES Subject(SubjectId) NULL,
+    TeacherId INT FOREIGN KEY REFERENCES Teacher(TeacherId) NULL
+);
+
+-- Create TeacherAttendance table
+CREATE TABLE TeacherAttendance (
+    Id INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+    TeacherId INT FOREIGN KEY REFERENCES Teacher(TeacherId) NULL,
+    Status BIT NULL,
+    Date DATE NULL
+);
+
+-- Create StudentAttendance table
+CREATE TABLE StudentAttendance (
+    Id INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+    ClassId INT FOREIGN KEY REFERENCES Class(ClassId) NULL,
+    SubjectId INT FOREIGN KEY REFERENCES Subject(SubjectId) NULL,
+    RollNo VARCHAR(20) NULL,
+    Status BIT NULL,
+    Date DATE NULL
+);
+
+-- Create Fees table
+CREATE TABLE Fees (
+    FeesId INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+    ClassId INT FOREIGN KEY REFERENCES Class(ClassId) NULL,
+    FeesAmount INT NULL
+);
+-- Create Exam table
+CREATE TABLE Exam (
+    ExamId INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+    ClassId INT FOREIGN KEY REFERENCES Class(ClassId) NULL,
+    SubjectId INT FOREIGN KEY REFERENCES Subject(SubjectId) NULL,
+    RollNo VARCHAR(20) NULL,
+    TotalMarks INT NULL,
+    OutOfMarks INT NULL
+);
+
+-- Create Expense table
+CREATE TABLE Expense (
+    ExpenseId INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+    ClassId INT FOREIGN KEY REFERENCES Class(ClassId) NULL,
+    SubjectId INT FOREIGN KEY REFERENCES Subject(SubjectId) NULL,
+    ChargeAmount INT NULL
+);
